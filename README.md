@@ -32,12 +32,12 @@ FreshCart is a modern e-commerce web application designed to streamline the onli
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/venkatesh1545/FreshCart-Spargen.git
+   git clone https://github.com/venkatesh1545/FreshCart.git
    ```
 2. **Install Dependencies**:
 
    ```bash
-   cd FreshCart-Spargen
+   cd FreshCart
    npm install
    ```
    
