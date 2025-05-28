@@ -22,10 +22,7 @@ FreshCart is a modern e-commerce web application designed to streamline the onli
 
 - **React.js** – for building the user interface  
 - **React Router DOM** – for handling routing  
-- **Tailwind CSS** – for styling  
-- **Axios** – for making API requests  
-- **Formik & Yup** – for form handling and validation  
-- **JWT** – for authentication
+- **Tailwind CSS** – for styling
 
 ## Getting Started
 
