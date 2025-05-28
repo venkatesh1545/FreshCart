@@ -49,8 +49,8 @@ FreshCart is a modern e-commerce web application designed to streamline the onli
    Open your web browser and visit `http://localhost:3000` to see FreshCart in action.
 
 
-[1]: https://github.com/venkatesh1545/FreshCart-Spargen "Venkatesh1545/FreshCart-Spargen: Groceries E-Commerce Website - GitHub"
-[2]: https://github.com/venkatesh1545/FreshCart-Spargen "Venkatesh1545/FreshCart-Spargen: Groceries E-Commerce Website - GitHub"
+[1]: https://github.com/venkatesh1545/FreshCart "Venkatesh1545/FreshCart: Groceries E-Commerce Website - GitHub"
+[2]: https://github.com/venkatesh1545/FreshCart "Venkatesh1545/FreshCart: Groceries E-Commerce Website - GitHub"
 
 ## Demo & Profiles
 
