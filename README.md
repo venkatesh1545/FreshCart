@@ -60,3 +60,4 @@ FreshCart is a modern e-commerce web application designed to streamline the onli
 - **Demo Website**: [https://fresh-cart-one-red.vercel.app](https://fresh-cart-one-red.vercel.app/)
 - **GitHub Profile**: [https://github.com/venkatesh1545](https://github.com/venkatesh1545)
 - **LinkedIn Profile**: [https://www.linkedin.com/in/golthi-venkatacharyulu/](https://www.linkedin.com/in/golthi-venkatacharyulu/)
+- **Portfolio**: [https://itsvenky.vercel.app](https://itsvenky.vercel.app)
