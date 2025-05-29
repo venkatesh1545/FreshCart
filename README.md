@@ -52,9 +52,14 @@ FreshCart is a modern e-commerce web application designed to streamline the onli
 [1]: https://github.com/venkatesh1545/FreshCart "Venkatesh1545/FreshCart: Groceries E-Commerce Website - GitHub"
 [2]: https://github.com/venkatesh1545/FreshCart "Venkatesh1545/FreshCart: Groceries E-Commerce Website - GitHub"
 
-## Demo & Profiles
+## Demo
 
 - **Demo Website**: [https://fresh-cart-one-red.vercel.app](https://fresh-cart-one-red.vercel.app/)
+- **Designing**: [FreshCart - Figma Design](https://www.figma.com/design/Ku9uEw3brwNa7Z5EBDflmo/FreshCart?node-id=0-1&t=ApyxdZfE5RfUY8Br-1)
+- **Video Sample**: [Video](https://drive.google.com/file/d/1VHht5GseEpDfFVEttEouIxaIp3JPXS93/view?usp=sharing)
+- **Github Repo**: [FreshCart](https://github.com/venkatesh1545/FreshCart/)
+  
+## Profiles
 - **GitHub Profile**: [https://github.com/venkatesh1545](https://github.com/venkatesh1545)
 - **LinkedIn Profile**: [https://www.linkedin.com/in/golthi-venkatacharyulu/](https://www.linkedin.com/in/golthi-venkatacharyulu/)
 - **Portfolio**: [https://itsvenky.vercel.app](https://itsvenky.vercel.app)
